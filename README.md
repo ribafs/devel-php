@@ -29,7 +29,7 @@ docker pull ribafs/lamp-5.6:latest
 
 ## Sugestões
 
-Serão muito bem vindas. Use o issue para isso.
+Serão muito bem vindas. Use os issues para isso.
 
 ## Licença
 
