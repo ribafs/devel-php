@@ -12,11 +12,14 @@ Todos os containers usam o Debian Slim, que é mais enxuto. Cada versão do PHP 
 - PHP 7.4 - Debian stable/11
 - PHP 8.1 - Debian unstable/SID
 
-As imagens publicadas no Docker Hub são para apenas uma versão do PHP.
+## Os containers estarão disponíveis aqui em breve
 
-A primeira imagem, para o PHP 5.6 já está no Docker Hub para ser testada.
+As imagens publicadas no Docker Hub são, cada uma para apenas uma versão do PHP.
 
-https://hub.docker.com/repository/docker/ribafs/lamp-5.6
+## Imagens disponíveis
+
+- https://hub.docker.com/repository/docker/ribafs/lamp-5.6
+- https://hub.docker.com/repository/docker/ribafs/lamp-7.4
 
 Basta que instale o docker em seu desktop e instale a imagem abrindo seu terminal/prompt a executando:
 
