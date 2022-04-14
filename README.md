@@ -18,8 +18,8 @@ As imagens publicadas no Docker Hub são, cada uma para apenas uma versão do PH
 
 ## Imagens disponíveis
 
-- https://hub.docker.com/repository/docker/ribafs/lamp-5.6
-- https://hub.docker.com/repository/docker/ribafs/lamp-7.4
+- https://hub.docker.com/r/ribafs/lamp-5.6
+- https://hub.docker.com/r/ribafs/lamp-7.4
 
 Basta que instale o docker em seu desktop e instale a imagem abrindo seu terminal/prompt a executando:
 
