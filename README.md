@@ -22,7 +22,7 @@ Basta que instale o docker em seu desktop e instale a imagem abrindo seu termina
 
 docker pull ribafs/lamp-5.6:latest
 
-## Participantes
+## Colaboradores
 
 - Marcos Abreu
 - Ribamar FS
