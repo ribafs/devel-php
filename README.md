@@ -12,6 +12,10 @@ Todos os containers usam o Debian Slim, que é mais enxuto. Cada versão do PHP 
 - PHP 7.4 - Debian stable/11
 - PHP 8.1 - Debian unstable/SID
 
+## Projeto Abandonado
+
+Pesquisando como rodar o laravel no docker no grupo PHP Brasil, um colega me falou sobre o devilbox. Testei e ele faz tudo o que pretendiamos com este repositório. Então resolvemos abandonar este projeto em nome do [Devilbox](http://devilbox.org).
+
 ## Os containers estarão disponíveis aqui em breve
 
 As imagens publicadas no Docker Hub são, cada uma para apenas uma versão do PHP.
