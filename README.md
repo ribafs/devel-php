@@ -14,7 +14,7 @@ Todos os containers usam o Debian Slim, que é mais enxuto. Cada versão do PHP 
 
 ## Projeto Abandonado
 
-Pesquisando como rodar o laravel no docker no grupo PHP Brasil, um colega me falou sobre o devilbox. Testei e ele faz tudo o que pretendiamos com este repositório. Então resolvemos abandonar este projeto em nome do [Devilbox](http://devilbox.org).
+Pesquisando como rodar o laravel no docker no grupo PHP Brasil, um colega me falou sobre o devilbox. Testei e ele faz tudo o que pretendiamos com este repositório e muito mais. Então resolvemos abandonar este projeto em nome do [Devilbox](http://devilbox.org).
 
 ## Os containers estarão disponíveis aqui em breve
 
